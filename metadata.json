@@ -1,0 +1,6 @@
+{
+  "name": "Pre-Home AG Redesign",
+  "description": "Redesign of the Swiss infrastructure and property management company PRE-HOME AG website (pre-home.ch)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
